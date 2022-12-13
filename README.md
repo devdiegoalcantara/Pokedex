@@ -6,7 +6,7 @@
 
 Projeto construído na aula do canal do [Roger-Melo](https://youtu.be/Uptu3NrBFBM) no youtube.
 
-[🔗 Clique aqui para acessar o projeto](https://devdiegoalcantara.github.io/Pokedex)
+[🔗 Clique aqui para acessar o projeto](https://devdiegoalcantara.github.io/pokedex)
 
 ## 🛠️ Tecnologias
 
